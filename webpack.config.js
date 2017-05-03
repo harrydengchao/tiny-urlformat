@@ -9,7 +9,7 @@ module.exports = {
     path: path.resolve(__dirname, './lib'),
     publicPath: '/lib/',
     filename: '[name].min.js',
-    library: 'tiny-urlformat',
+    library: 'tinyUrlformat',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
